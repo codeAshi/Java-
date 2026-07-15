@@ -26,6 +26,10 @@ public class Queue1 {
             counter.add(names[i]);
             System.out.println(counter);
         }
+        // int =3;
+        int res=3/2;
+        System.out.println(res+"hereeeee");
+
 
     }
     

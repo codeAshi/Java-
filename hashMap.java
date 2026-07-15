@@ -3,6 +3,8 @@ import java.util.*;
 public class hashMap {
     public static void main(String[] args){
     HashSet<Integer> nums=new HashSet<>();
+    Graph<Integer> g=new Graph<>();
+    g.add(1,2,5);
     HashMap<Integer,String> classtud=new HashMap<>();
     classtud.put(1,"Ashish");
     classtud.put(2,"Raj");
